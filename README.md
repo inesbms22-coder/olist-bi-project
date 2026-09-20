@@ -5,9 +5,12 @@
 
 ### Orders
 <img width="2170" height="1130" alt="image" src="https://github.com/user-attachments/assets/09f84280-7b15-489b-b41b-44b191c56b8d" />
-  ### Revenue
+
+### Revenue
+
   <img width="2154" height="1134" alt="image" src="https://github.com/user-attachments/assets/ce63e6b4-f958-46b9-b303-8e843af3e4e3" />
-  ### Ratings
+
+### Ratings
 <img width="2194" height="1130" alt="image" src="https://github.com/user-attachments/assets/827ee7e8-39c6-44d2-a564-c975079d475d" />
 
 
