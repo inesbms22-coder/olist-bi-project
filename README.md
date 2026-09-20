@@ -1,6 +1,8 @@
 # olist-bi-project
 Power BI analysis of the Brazilian Olist e-commerce dataset
 
+## Project File
+- `bi_report.pbix`
 
 ## Objectives
 - Analyze monthly order trends
@@ -21,6 +23,16 @@ The report uses a star schema with:
 - DimCustomer
 - DimProduct
 - DimDate
+
+## Files Used
+
+The analysis was built using the following Olist datasets:
+
+- `olist_orders_dataset.csv`
+- `olist_order_items_dataset.csv`
+- `olist_products_dataset.csv`
+- `olist_order_reviews_dataset.csv`
+- `olist_customers_dataset.csv`
 
 ## Main KPIs
 - Order Count
