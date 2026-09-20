@@ -1,3 +1,7 @@
+# Olist BI Report
+
+Power BI project based on the Brazilian Olist e-commerce dataset
+
 ## Project File
 - `bi_report.pbix`
 
