@@ -1,5 +1,9 @@
 ## Project File
 - `bi_report.pbix`
+
+- ## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
   <img width="2170" height="1130" alt="image" src="https://github.com/user-attachments/assets/09f84280-7b15-489b-b41b-44b191c56b8d" />
 
 
