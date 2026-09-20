@@ -1,8 +1,10 @@
-# olist-bi-project
+<img width="2170" height="1130" alt="image" src="https://github.com/user-attachments/assets/c646ac69-cd36-4439-a1d2-bd0f01c56dbd" /># olist-bi-project
 Power BI analysis of the Brazilian Olist e-commerce dataset
 
 ## Project File
 - `bi_report.pbix`
+  <img width="2170" height="1130" alt="image" src="https://github.com/user-attachments/assets/09f84280-7b15-489b-b41b-44b191c56b8d" />
+
 
 ## Objectives
 - Analyze monthly order trends
